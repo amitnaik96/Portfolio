@@ -7,7 +7,6 @@ const Contact = () => {
         <div className="container mx-auto flex space-x-4 px-5 py-20 flex-row justify-center w-full">
           <div className="w-1/2 p-4 md:w-1/4   flex flex-col md:items-center  items-center text-center">
             <h1 className="title-font sm:text-4xl text-3xl mb-6 font-semibold color-white underline underline-offset-8">Contact</h1>
-            {/* <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">I'm Amit Naik</h1> */}
             <p className='mb-4 color-white font-semibold'>Email - <a href="mailto:amitnaikkwr@gmail.com" className='hover:text-yellow-200'>amitnaikkwr@gmail.com</a></p>
             <div className='flex  md:flex-row color-white font-semibold'>
               <p>Connect - </p>
